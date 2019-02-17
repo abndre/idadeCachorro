@@ -12,6 +12,7 @@
 		65D1B2E4221875CB009CDCEA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65D1B2E2221875CB009CDCEA /* Main.storyboard */; };
 		65D1B2E6221875CC009CDCEA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65D1B2E5221875CC009CDCEA /* Assets.xcassets */; };
 		65D1B2E9221875CC009CDCEA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65D1B2E7221875CC009CDCEA /* LaunchScreen.storyboard */; };
+		65D1B2F122187660009CDCEA /* dog_pixel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 65D1B2F022187660009CDCEA /* dog_pixel.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		65D1B2E5221875CC009CDCEA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		65D1B2E8221875CC009CDCEA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		65D1B2EA221875CC009CDCEA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		65D1B2F022187660009CDCEA /* dog_pixel.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dog_pixel.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				65D1B2E0221875CB009CDCEA /* ViewController.swift */,
 				65D1B2E2221875CB009CDCEA /* Main.storyboard */,
 				65D1B2E5221875CC009CDCEA /* Assets.xcassets */,
+				65D1B2F022187660009CDCEA /* dog_pixel.jpg */,
 				65D1B2E7221875CC009CDCEA /* LaunchScreen.storyboard */,
 				65D1B2EA221875CC009CDCEA /* Info.plist */,
 			);
@@ -125,6 +128,7 @@
 				65D1B2E9221875CC009CDCEA /* LaunchScreen.storyboard in Resources */,
 				65D1B2E6221875CC009CDCEA /* Assets.xcassets in Resources */,
 				65D1B2E4221875CB009CDCEA /* Main.storyboard in Resources */,
+				65D1B2F122187660009CDCEA /* dog_pixel.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
